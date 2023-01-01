@@ -7,14 +7,18 @@ The Web-Based Library Information System is a system that can be used to manage 
 
 ## Use of Access Login
 
-<b>Library Officer : </b>
+<b>(Back End) Library Officer : </b>
 <br/>
 Username : nanda
 <br/>
 Password : 123
 
-<b>Library Member :</b>
+<b>(Front End) Library Member :</b>
 <br/>
 Username : ilham
 <br/>
 Password : ilham
+
+<b>Database :</b>
+<br/>
+projek_perpus
